@@ -1,2 +1,2 @@
-# employees
-Acceleration Point policies, terms, and legal.
+# Employees
+Acceleration Point employee policies, terms, and legal.
